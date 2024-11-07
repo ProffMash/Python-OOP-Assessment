@@ -19,4 +19,4 @@ print(f"Square area: {square.calculate_area()}")  # Output: 25
 
 # 2. Creating a rectangle with length 4 and width 6
 rectangle = Rectangle(4, 6)
-print(f"Rectangle area: {rectangle.calculate_area()}")  # Output: 24
+print(f"Rectangle area: {rectangle.calculate_area()}")  # Out-put: 24
